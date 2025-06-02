@@ -2,12 +2,7 @@
 
 Create the beginning of World 1-1 in Nintendo’s Super Mario Brothers from Harvard CS50. 
 
-The following code implements a program in C that recreates that pyramid, using hashes (#) for bricks, as in the below:
-
-   #  #
-  ##  ##
- ###  ###
-####  ####
+The following code implements a program in C that recreates that pyramid, using hashes (#) for bricks.
 
 It allows the user to decide just how tall the pyramids should be by first prompting them for a positive int between, say, 1 and 8, inclusive.
 
