@@ -1,6 +1,7 @@
 # CS50_Week1_Mario
 
-Create the beginning of World 1-1 in Nintendo’s Super Mario Brothers from Harvard CS50. 
+Create the beginning of World 1-1 in Nintendo’s Super Mario Brothers from Harvard CS50
+______________________________________________________________________________________
 
 The following code implements a program in C that recreates that pyramid, using hashes (#) for bricks.
 
